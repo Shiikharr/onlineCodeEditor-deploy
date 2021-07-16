@@ -13,5 +13,5 @@
   ### 4. Extract the project.
   ### 5. Open it on visual studio 
   ### 6. Open terminal and select the project directory and type "npm start" without the double quotes.
-  ### 7. If it does not execute then try to extract the node_modules.rar file and then run it.
-  ### 8. For quick a glance the deployed link to the website is added above.
+  ### 7. If some error comes then delete the package-lock.json file and type the command "npm install". When done, type "npm start" and the project will be executed. 
+  ### 8. For a quick glance the deployed link to the website is added above.
