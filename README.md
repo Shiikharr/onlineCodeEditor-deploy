@@ -1,4 +1,5 @@
 # ONLINE CODE EDITOR- MADE BY SHIKHAR SRIVASTAVA
+## The Source Code of the project is in the main branch.
   <h2>This project is created using REACT that supports the following features:</h1>
   <h3>1. A top-bar pane which consists of three files: index.html, index.css, index.js.</h3>
   <h3>2. A code editor that supports syntax highlighting for HTML, CSS, and JS.</h3>
